@@ -1,4 +1,4 @@
-🎮 What is the Simon Game?
+# What is the Simon Game?
 
 Simon is a classic memory-based game introduced in the 1970s.
 The concept is simple but addictive:
@@ -13,7 +13,7 @@ If you click the wrong color → Game Over, and you must restart.
 
 It’s a great example of how pattern recognition and short-term memory can be gamified—perfect for beginner-friendly JavaScript logic.
 
-🛠️ Tech Stack Used
+ # Tech Stack Used
 1️⃣ HTML
 
 Used to create the game structure:
@@ -54,7 +54,7 @@ Game-over logic
 
 Adding/removing animation classes dynamically
 
-⚙️ How the Game Works (Behind the Scenes)
+# How the Game Works (Behind the Scenes)
 🔹 1. Start the Game
 
 When the user presses any key, the game initializes:
